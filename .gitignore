@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Unignore .scala files
+!.gitignore
+!*/
+!*.scala
