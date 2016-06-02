@@ -16,5 +16,3 @@ object Solution extends App {
     }
 
 }
-
-(λg.((λf.((λx.(f (x x)))(λx.(f (x x))))) g))
